@@ -34,9 +34,7 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.create({
-    tag_name: req.body.tag_name
-  })
+  Tag.create(req.body)
     .then((tagData) => {
       // Send the newly created row as a JSON object
       res.json(tagData);
