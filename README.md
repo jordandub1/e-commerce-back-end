@@ -26,6 +26,7 @@
 
   ## Walkthrough-Video
   ![E-Commerce-Back-End](public/assets/walkthrough.gif)
+  [Link to video](https://drive.google.com/file/d/1zmoa0CXUz55agEU1aPpNnnPP72Vq-9Yq/view?usp=sharing)
 
   ## License
   This project is covered under the ISC license. Visit the following link for more information on this license: [ISC](https://opensource.org/licenses/ISC)
