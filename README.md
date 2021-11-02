@@ -1,7 +1,5 @@
 # E-Commerce Back End
 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
   ## Description
   The E-Commerce Back End was created for my internet retail company to use the latest technologies so that my company can compete with other e-commerce companies. This application allows me to find, create, update, and delete my products, tags, and categories from my database. 
 
@@ -11,7 +9,6 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Walkthrough Video](#walkthrough-video)
-  * [License](#license)
   * [Questions](#questions)
   
   ## Installation
@@ -27,9 +24,6 @@
   ## Walkthrough-Video
   ![E-Commerce-Back-End](public/assets/walkthrough.gif)
   [Link to video](https://drive.google.com/file/d/1zmoa0CXUz55agEU1aPpNnnPP72Vq-9Yq/view?usp=sharing)
-
-  ## License
-  This project is covered under the ISC license. Visit the following link for more information on this license: [ISC](https://opensource.org/licenses/ISC)
 
   ## Questions
   For any questions about the project, please contact me by either of the following links:
